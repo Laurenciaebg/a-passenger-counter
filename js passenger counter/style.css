@@ -1,0 +1,19 @@
+body {
+    font-weight: bold;
+    text-align: center;
+    background: linear-gradient( to bottom right, rgb(255, 230, 0), blue) fixed;
+    color: white;
+    background-position: center;
+}
+
+button {
+    color: rgb(248, 232, 4);
+    background-color: rgb(2, 2, 55);
+    height: 50px;
+    font-weight: bold;
+    border: rgb(8, 60, 78);
+}
+
+button:hover {
+    border: darkred;
+}
